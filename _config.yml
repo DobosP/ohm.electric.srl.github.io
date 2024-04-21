@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Electrician Iasi
+email: pauldobos6@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Ai nevoie de servicii electrice profesionale şi de încredere?"
+keywords: "electrcian, electrician iasi, reparatii electrice iasi, iasi elecric, inginer electric iasi"
+skills: "Electrician"
+meta_author: Paul Dobos
 
 # Google webmaster tools
 google_verify:
@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -39,21 +39,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/profile.php?id=61558441614805
+  - title: whatsapp
+    url: https://l.facebook.com/l.php?u=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D%252B40743621852%26app%3Dfacebook%26entry_point%3Dpage_cta%26fbclid%3DIwZXh0bgNhZW0CMTAAAR3vgpQpjSp6NJfSe_qwj2i7e3FB4EdsG57_ogidQ88w8k5kU326Fu-9WdI_aem_Aawdeklr2JqTKWuAUOLOfJlKYQtFaL7L9DiJiFRAkqFpQ8LfcP4m0ApdZaCQosfdboxUQeXR2LXnOvcQWFdqTXyV&h=AT3lZWUsiK7QgxnKmh4XAbfs3eAsrACT_5f40e-TXgi4s0iyvV8Kt1OEW9R3uraS5IAfwb8vhyN9YBG_D2fXOnBiYeEpkB4iK_n6JiOBkDfSW5bY9HADQsBPbeuHEw
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Iasi Romania
+  - line: De discutat
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
